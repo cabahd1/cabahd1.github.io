@@ -1,3 +1,20 @@
 h1{
     color:green;
 }
+/*
+foo{} is for tags
+.bar is for class
+#bar is for id
+"margin-top:
+margin-bottom:
+margin-right:
+margin-left:
+is the same as
+margin: npx n1px n2px n3px"
+"if npx and n1px or n2px and n3px are the same you scan use
+margin npx n1px"
+border: is the same
+*{} is a reset
+a:whatever with whatever being a pseudoclass of tag <a>
+foo[type] affects only  those that have the described type
+*/
