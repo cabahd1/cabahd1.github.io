@@ -1,0 +1,1 @@
+const apiKey = "SECRET_API_KEY";
